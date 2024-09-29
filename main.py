@@ -1,2 +1,1 @@
-print("My First Code Push")
-print("My Second Code Push")
+import escape_comments
