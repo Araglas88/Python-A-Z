@@ -1,2 +1,3 @@
 #import escape_comments
-import variable
+#import variable
+import typecast
