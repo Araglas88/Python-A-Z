@@ -2,4 +2,5 @@
 #import p002_variable
 #import p003_typecast
 #import p004_input
-import p005_calculator
+#import p005_calculator
+import p006_string
