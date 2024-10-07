@@ -9,3 +9,4 @@
 #import p009_matchcase
 #import p010_forloop
 #import p011_whileloop
+import p012_functions
